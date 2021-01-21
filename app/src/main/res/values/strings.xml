@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HR190030_MetecanKarahanFinal</string>
+    <string name="todo">TODO</string>
+    <string name="network_negatif_buton">Çıkış</string>
+    <string name="network_cikis_mesaj">İnternet Bağlantısı Yok</string>
+    <string name="network_pozitif_buton">İnternet Ayarlarına Git</string>
+    <string name ="liste_cıkıs_mesaj">Uygulamadan Çıkmak İster Misiniz?</string>
+    <string name="liste_pozitif">Hayir</string>
+    <string name="liste_negatif">Evet</string>
+    <string name="tiklanan_adi">TıklananAdı</string>
+    <string name="lutfen_bekleyin">Lütfen bekleyiniz..</string>
+    <string name="takim_baslik">Fenerbahçe Spor Kulübü</string>
+    <string name="takim_tarih">3 Mayıs 1907</string>
+    <string name="detay_baslik">BAŞLIK</string>
+
+</resources>

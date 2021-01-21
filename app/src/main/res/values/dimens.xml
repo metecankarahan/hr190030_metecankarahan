@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="cardivew_padding">16dp</dimen>
+
+    <dimen name="splash_layout_width">222dp</dimen>
+    <dimen name="splash_layout_height">204dp</dimen>
+
+    <dimen name ="imgKapak_layot_height">200dp</dimen>
+    <dimen name ="txtBaslik_padding">10dp</dimen>
+    <dimen name ="txtBaslik_textSize">30sp</dimen>
+    <dimen name ="txtDetay_padding">10dp</dimen>
+
+
+    <dimen name ="imgLogo_layout_height">250dp</dimen>
+    <dimen name ="rcvTakimlar_layout_height">0dp</dimen>
+
+    <dimen name ="imgTakimLogo_layout_width">100dp</dimen>
+    <dimen name ="imgTakimLogo_layout_height">100dp</dimen>
+    <dimen name ="imgTakimLogo_layout_marginStart">16dp</dimen>
+    <dimen name ="imgTakimLogo_layout_marginTop">16dp</dimen>
+    <dimen name ="imgTakimLogo_layout_marginBottom">16dp</dimen>
+
+    <dimen name ="txtTakimAdi_layout_marginStart">16dp</dimen>
+    <dimen name ="txtTakimAdi_TextSize">23sp</dimen>
+
+    <dimen name ="txtTarih_layout_marginTop">16dp</dimen>
+
+
+</resources>
