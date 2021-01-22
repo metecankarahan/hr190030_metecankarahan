@@ -6,4 +6,6 @@
 Süper ligimizdeki bazı önemli takımlar hakkında kısa bilgilerin olduğu(kuruluş yılları vb.gibi) bir android uygulaması.
 # Projenin Mimari Yapısı
 ![mimari](https://user-images.githubusercontent.com/61199821/105431449-aafc1980-5c66-11eb-827c-bd239391854f.png)
-
+# Projede Kullanılan Teknolojiler
+Retrofit2,RxJava,Glide,OkHttp
+# Projenin Açık Kaynak Lisansı
